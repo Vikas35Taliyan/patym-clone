@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/THANKS-HITESHCHOUDHARY%20-red)
 ![](https://img.shields.io/badge/INEURON-PROJECT-yellowgreene)
 # Netlify live
+![Live](https://patym-ui-clone1.netlify.app/)
 
 
 # Paytm UI clone
