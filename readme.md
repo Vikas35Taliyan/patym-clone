@@ -26,8 +26,3 @@
 - How to design buttons and text, fonts
 - Flexbox
 - Creating cards for displaying contents in better way.
-
-### Screenshot of project
-
-[paytm](./assets/paytm01.JPG)
-[paytm](./assets/paytm02.JPG)
