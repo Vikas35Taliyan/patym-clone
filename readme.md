@@ -23,6 +23,6 @@
 ### Skills Gained from this
 
 -  Creating navigation bar using tailwind utility classes.
-- How to design buttons and text, fonts
-- Flexbox
+- How to design buttons and text, fonts.
+- Flexbox.
 - Creating cards for displaying contents in better way.
