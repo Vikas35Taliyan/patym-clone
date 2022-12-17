@@ -14,7 +14,7 @@
 <table>
 <tr>
 <td>
-  In this patym UI clone project. I took help from the official patym website. And this project is a part of my full-stack Javascript program from Ineuronai.This clone is fully mobile responsive and i learn a lot from official tailwind website that how to use utility classes as well as how to design buttons, cards, text.
+  In this patym UI clone project. I took help from the official patym website. And this project is a part of my full-stack Javascript program from Ineuronai.This clone is fully mobile responsive and i learn a lot from official tailwind website that how to use utility classes as well as how to design-buttons, cards, text.
 
 </td>
 </tr>
